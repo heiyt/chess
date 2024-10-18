@@ -1,0 +1,5 @@
+"D:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Projects\ClionProjects\chinachess -B D:\Projects\ClionProjects\chinachess\cmake-build-release
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Projects/ClionProjects/chinachess/cmake-build-release
